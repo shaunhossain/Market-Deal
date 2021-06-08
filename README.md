@@ -26,7 +26,8 @@ navigation between fragments
 * [Room Database](https://developer.android.com/training/data-storage/room/) - To store offline data and save favourite posts
 * [ViewPager2](https://developer.android.com/jetpack/androidx/releases/viewpager2) - to manage multiple fragments for categores 
 
+## App [Link](https://developer.android.com/jetpack/androidx/releases/viewpager2)
+
 
 ## Screenshots
 |<img src="screenshots/home.jpg" width=200/>|<img src="screenshots/detail.jpg" width=200/>|<img src="screenshots/home_dark.jpg" width=200/>|<img src="screenshots/search.jpg" width=200/>|
-|:----:|:----:|:----:|:----:|
