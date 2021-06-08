@@ -30,5 +30,5 @@ navigation between fragments
 
 
 ## Screenshots
-|<img src="screenshots/splash_screen.jpg" width=200/>|<img src="screenshots/home_screenDark.jpg" width=200/>|<img src="screenshots/details_screen.jpg" width=200/>|<img src="screenshots/home_screenDark.jpg" width=200/>|
+|<img src="screenshots/splash_screen.jpg" width=200/>|<img src="screenshots/home_screenDark.jpg" width=200/>|<img src="screenshots/search_post.jpg" width=200/>|<img src="screenshots/home_screenDark.jpg" width=200/>|
 |:----:|:----:|:----:|:----:|
